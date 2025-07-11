@@ -1,9 +1,9 @@
 ## Hi, I'm Eduardo 🧙🏽‍♂️
 
 I'm a Software Engineer, focused on creating good applications with TypeScript, Python and other cool languages... 
-I'm currently focused on developing software powered by AI, and becoming a complete AI Engineer;
+
 - 🔭 I'm currently working on AI core Project at Salez
-- 👯 I'm looking to collaborate on AI projects, Node, TypeScript or Python projects
+- 👯 I'm looking to collaborate on NodeJs, TypeScript or Python projects
 
 ### What you find here:
 
